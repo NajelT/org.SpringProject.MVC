@@ -17,7 +17,6 @@
           <element id="library" level="project" name="Maven: org.postgresql:postgresql:42.3.3" />
           <element id="library" level="project" name="Maven: org.checkerframework:checker-qual:3.5.0" />
           <element id="library" level="project" name="Maven: org.hibernate.validator:hibernate-validator:7.0.4.Final" />
-          <element id="library" level="project" name="Maven: jakarta.validation:jakarta.validation-api:3.0.0" />
           <element id="library" level="project" name="Maven: org.jboss.logging:jboss-logging:3.4.1.Final" />
           <element id="library" level="project" name="Maven: com.fasterxml:classmate:1.5.1" />
           <element id="library" level="project" name="Maven: org.springframework:spring-core:5.3.18" />
@@ -33,6 +32,7 @@
           <element id="library" level="project" name="Maven: org.attoparser:attoparser:2.0.5.RELEASE" />
           <element id="library" level="project" name="Maven: org.unbescape:unbescape:1.1.6.RELEASE" />
           <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.25" />
+          <element id="library" level="project" name="Maven: jakarta.validation:jakarta.validation-api:2.0.2" />
         </element>
       </element>
       <element id="directory" name="META-INF">
